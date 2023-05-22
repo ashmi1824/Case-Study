@@ -1,0 +1,267 @@
+body{
+    background: linear-gradient(lightpink, lavender, lightblue);
+}
+
+#bag-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#bag{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+#bag_google,#bag_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+b{
+    color: blueviolet;
+}
+#lin{
+  color: lightslategray;
+}
+#result{
+    color: aliceblue;
+}
+#comb-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+
+}
+#comb_google,#comb_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#comb{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+#spinner-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#spinner_google,#spinner_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#spinner{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+#book-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#book_google,#book_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#book{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+
+
+#cap-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#cap_google,#cap_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#cap{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+
+
+#egg-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#egg_google,#egg_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#egg{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+
+#watch-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#watch_google,#watch_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+
+}
+#watch{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+
+#watch-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#watch_google,#watch_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#watch{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+#leaf-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#leaf_google,#leaf_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#leaf{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+
+
+#spoon-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#spoon_google,#spoon_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#spoon{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+#pepsi-div{
+    background-color: grey;
+    width: 1100px;
+    height:700px;
+    border-radius: 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+#pepsi_google,#pepsi_mobilenet{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: cornsilk;
+    border-radius:5px;
+    height: 30px;
+}
+#pepsi{
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+
+
